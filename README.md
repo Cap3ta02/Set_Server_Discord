@@ -7,7 +7,7 @@ Benvenuti nella nostra guida dedicata a coloro che vogliono avviare la propria c
 
 ## Configurazione dell'Automod su Discord
 
-### Passo 1: 
+### Impostazioni Server
 - Facendo tasto destro , potremmo cliccare sulla voce ` Impostazioni del Server `, dirigendoci nella categoria `Moderazione`.
 
 ### Configurazione di Sicurezza
