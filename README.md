@@ -8,7 +8,7 @@ Benvenuti nella nostra guida dedicata a coloro che vogliono avviare la propria c
 ## Configurazione dell'Automod su Discord
 
 ### Passo 1: 
-- Facendo tasto destro , potremmo cliccare sulla voce " Impostazioni del Server ", dirigendoci nella categoria `Moderazione`.
+- Facendo tasto destro , potremmo cliccare sulla voce ` Impostazioni del Server `, dirigendoci nella categoria `Moderazione`.
 
 ### Configurazione di Sicurezza
 
@@ -43,10 +43,14 @@ Se desiderate arricchire il vostro server Discord con funzionalità personalizza
 
 ### Passo 3: Ottenere il Token del Bot
 
-- Nella sezione "Bot", della colonnina di sinistra del pannello di controllo, cliccate su "Reset Token" e copiate il token del vostro bot.
+- Nella sezione `Bot`, della colonnina di sinistra del pannello di controllo, cliccate su "Reset Token" e copiate il token del vostro bot.
 
 ### Passo 4: Impostare il Bot con il Codice
 
-- Seguite la guida nel file "bot.py" nella repository, con commenti esplicativi su ogni passo e funzionamento.
+- Seguite la guida nel file `bot.py` nella repository, con commenti esplicativi su ogni passo e funzionamento.
 
+### Passo 5 : Rimanete aggiornati sul mio profilo
+
+- Questa è una semplice guida iniziale per iniziare a configurare sia una community discord e soprattutto, un bot telegram. Prossimamente, pubblicherò nuovi progetti per aggiungere tool con tante funzioni per il vostro BOT!!
+  
 Con questi passaggi, sarete in grado di configurare l'Automod su Discord e programmare un bot personalizzato per la vostra community. Benvenuti nel mondo della gestione avanzata dei server Discord!
