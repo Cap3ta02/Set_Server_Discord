@@ -1,7 +1,7 @@
 # Set_Server_Discord
 Questa è una guida in italiano, per poter gestire il vostro canale discord in maniera totalmente automatica, senza bisogno di nessun moderatore o bot esterni.
 
-# Guida alla Creazione di una Community su Discord e Bot Personalizzato
+## Guida alla Creazione di una Community su Discord e Bot Personalizzato
 
 Benvenuti nella nostra guida dedicata a coloro che vogliono avviare la propria community su Discord e creare un bot personalizzato in Python. Questo README fornisce istruzioni dettagliate per configurare l'Automod su Discord e programmare un bot per arricchire l'esperienza dei vostri utenti.
 
