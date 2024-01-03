@@ -51,6 +51,6 @@ Se desiderate arricchire il vostro server Discord con funzionalità personalizza
 
 ### Passo 5 : Rimanete aggiornati sul mio profilo
 
-- Questa è una semplice guida iniziale per iniziare a configurare sia una community discord e soprattutto, un bot telegram. Prossimamente, pubblicherò nuovi progetti per aggiungere tool con tante funzioni per il vostro BOT!!
+- Questa è una semplice guida iniziale per poter configurare sia un server discord e soprattutto, un bot . Prossimamente, pubblicherò nuovi progetti per aggiungere tool con tante funzioni per il vostro BOT!!
   
 Con questi passaggi, sarete in grado di configurare l'Automod su Discord e programmare un bot personalizzato per la vostra community. Benvenuti nel mondo della gestione avanzata dei server Discord!
