@@ -7,23 +7,22 @@ Benvenuti nella nostra guida dedicata a coloro che vogliono avviare la propria c
 
 ## Configurazione dell'Automod su Discord
 
-### Passo 1: Impostazioni del Server
+### Passo 1: 
+- Facendo tasto destro , potremmo cliccare sulla voce " Impostazioni del Server ", dirigendoci nella categoria `Moderazione`.
 
-1. Tasto destro sull'icona del server.
-2. Selezionate la sezione "Moderazione" nella colonna di sinistra.
+### Configurazione di Sicurezza
 
-### Passo 2: Configurazione di Sicurezza
+-Queste impostazioni riguarda nel particolare, il nuovo utente. Il problema principale dei canali discord, sono gli spam, ovvero, utenti falsi gestiti da script, che attraverso id dei canali, inviano dei messaggi spam sulle chat testuali. Il mio consiglio è di impostare la voce  `Livello di verifica` su `massimo`. Ovvero , l'utente dovrà avere il suo profilo verificato da un numero di cellulare.
 
-- Configurazione del nuovo utente:
-  - Impostare il livello di verifica al massimo per richiedere la verifica del profilo tramite numero di cellulare.
-  - Filtrare i messaggi di tutti i membri per prevenire immagini esplicite.
+- Impostare il filtro per immagini esplicite sulla voce `Filtra i messaggi di tutti i membri`
 
-### Passo 3: Automod
+### Automod
 
-- Controllare i messaggi degli utenti, bloccare spam di menzioni e impostare azioni per lo spam.
-- Bloccare specifiche parole personalizzate per garantire un ambiente positivo.
+- All'interno della sezione Automod, avremmo la funzione di monitorare i messaggi dei nostri utenti, avendo la possibilità di evitare lo spam di menzioni come `@tag` e di decidere come sanzionare lo spam, che sia eliminando il messaggio o avvertendo direttamente l'utente.
 
-### Passo 4: Registro Attività e Ban
+Questa parte risulta particolarmente interessante, in quanto consente di bloccare specifiche parole inviate dagli utenti avendo la possibilità di personalizzare l'inserimento di parole, decidendo quali non desideriamo visualizzare nel nostro server.
+
+### Registro Attività e Ban
 
 - Monitorare tutte le attività degli utenti sul server.
 - Consultare la lista di utenti bannati.
@@ -38,13 +37,13 @@ Se desiderate arricchire il vostro server Discord con funzionalità personalizza
 
 ### Passo 2: Creare un Bot su Discord Developer Portal
 
-1. Visitate [Discord Developer Portal](https://discord.com/developers/applications) e effettuate il login.
-2. Cliccate su "New Application" e inserite il nome del vostro bot.
-3. Personalizzate l'icona del bot e altre informazioni nel pannello di controllo.
+1. Visitate [Discord Developer Portal](https://discord.com/developers/applications) e effettuate il login con il vostro account discord.
+2. Cliccate su `New Application` e inserite il nome del vostro bot.
+3. Dopo aver inserito il nome, vi uscirà il pannello di controllo del vostro bot, dove potrete personalizzare descrizione,nome,icona del bot
 
 ### Passo 3: Ottenere il Token del Bot
 
-- Nella sezione "Bot" del pannello di controllo, cliccate su "Reset Token" e copiate il token del vostro bot.
+- Nella sezione "Bot", della colonnina di sinistra del pannello di controllo, cliccate su "Reset Token" e copiate il token del vostro bot.
 
 ### Passo 4: Impostare il Bot con il Codice
 
